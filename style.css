@@ -1,0 +1,21 @@
+
+/* para a pessoa que veja este codigo pedo desculpa se é muito simple, mas to tentando colocar o que eu aprendei dereito e não colocar
+coisas que ainda não entendo... eu sei que posso melhorar */
+
+body {
+    background-color: #6CDDF4;
+}
+
+.titulo {
+    text-align: center;
+    padding: 50px;
+}
+
+.conteudo {
+    text-decoration: #127B27;
+    padding: 80px;
+    justify-content:center
+}
+
+/* tenho pensado continuar com este codigo ate fazer dele um portfolio profissional, agora tem coisas muito basicas e simples, mas
+eu vou da continuidade ate fazer ele um trabalho digno de um programador */

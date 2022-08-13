@@ -39,6 +39,20 @@
                     <p><a href="https://www.facebook.com/ricardo.infante.790/"><img src="facebook.jpg" width="35px" height="35px" alt="face"></a></p>
                     <p><a href="https://github.com/Ricardo662?tab=repositories"><img src="github.png" width="35px" height="35px" alt=""></a></p>
                 </ul>
+
+
+                <form>
+                    <label for="nome"> Nome </label><br>
+                    <input id="nome"  type="text" placeholder="Ricardo"><br>
+            
+                    <label for="email"> E-mail </label><br>
+                    <input id="email" type="email" onblur="validarEmail()" onfocus="redefinirMsg()" placeholder="r2021infante@gmail.com"><br>
+                    <span id="error-email"></span>
+            
+
+                   </form>
+
+                <script src="script.js"></script>
                 
         </body>
 </html>
